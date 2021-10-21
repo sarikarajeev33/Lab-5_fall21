@@ -1,5 +1,5 @@
  Lab 5
-Due: Mon Oct 12, 11:59 pm
+
 
 Problem
 Your friends just bought a new five room house and need your help to know how much it will cost to re-do the floors. Write a program that, given the dimensions of each of the five rooms and the desired type of flooring, outputs the cost of each room as well as the total cost. Hardwood costs $1.39/sqft, carpet costs $3.99/sqft, and tile costs $4.99/sqft.
